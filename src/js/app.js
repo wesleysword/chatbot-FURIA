@@ -4,7 +4,7 @@ const NavBar = () => {
         <div className="container mx-auto flex justify-between items-center">
         <div className="flex flex-col items-center">
           <img
-            src="src/images/teamLogo-furia.png"
+            src="src/assets/images/teamLogo-furia.png"
             alt="Logo Time Esportivo"
             className="h-12 w-auto"
           />

@@ -1,4 +1,5 @@
 # FURIA Esports Website
+![image](https://github.com/user-attachments/assets/232e01e3-3e96-4a68-9b21-469a7d8a4500)
 
 ## Overview
 This is a single-page React application dedicated to showcasing the FURIA Esports team. It provides information about the team's players, achievements, and a chatbot for fan interaction. The application is styled with Tailwind CSS and uses React for dynamic components.
@@ -71,10 +72,25 @@ src/
 
 ## Usage
 - Navigate through sections using the navbar.
+  
+ ![image](https://github.com/user-attachments/assets/063e7b7f-a2ae-4169-bf6e-f554c7b90ec4)
+
 - Use the arrows in the `JogadoresCarousel` to view different players.
+  
+ ![Vídeo sem título ‐ Feito com o Clipchamp (3)](https://github.com/user-attachments/assets/d9e393f5-b345-4b31-9362-21408486da9e)
+
 - Click the dots in the `PremiacoesCarousel` to view awards.
+  
+ ![Vídeo sem título ‐ Feito com o Clipchamp (2)](https://github.com/user-attachments/assets/8756c1a2-801e-4151-88f7-38df616fdf38)
+ 
 - Type questions in the chatbot input to interact with the AI (e.g., "Who is FalleN?").
+  
+ ![image](https://github.com/user-attachments/assets/150baf4f-9496-4537-939a-b17e305c120f)
+ 
 - Click social media links in the footer to visit FURIA’s profiles.
+  
+ ![image](https://github.com/user-attachments/assets/74d61753-7e40-44bb-a776-56789db6af96)
+
 
 ## Notes
 - The chatbot is configured to respond to questions related to FURIA Esports.
